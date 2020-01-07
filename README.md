@@ -6,6 +6,10 @@ Maximum Entropy Thresholding Implementation in Python (OpenCV)
 - Jupyter Notebook
 - `opencv-python` library
 
+## Contribute
+
+- Add an adaptive implementation of maximum entropy thresholding
+
 ## Built With
 
 * [Jupyter Notebook](https://jupyter.org/)
