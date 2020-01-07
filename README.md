@@ -5,3 +5,20 @@ Maximum Entropy Thresholding Implementation in Python (OpenCV)
 
 - Jupyter Notebook
 - `opencv-python` library
+
+## Built With
+
+* [Jupyter Notebook](https://jupyter.org/)
+* [Open-CV](https://opencv.org/) - Image processing library
+
+## Authors
+
+* **Imad Eddine Toubal** - *Initial work* - [imadtoubal](https://github.com/imadtoubal)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+ Happy coding!
