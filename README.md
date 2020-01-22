@@ -1,5 +1,9 @@
 # Maximum-Entropy-Thresholding-Implementation-in-Python
+[![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imadtoubal/Maximum-Entropy-Thresholding-Implementation-in-Python/blob/master/entropy_thresholding.ipynb)
+
+
 Maximum Entropy Thresholding Implementation in Python (OpenCV)
+
 
 ## Requirements
 
